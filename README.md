@@ -13,4 +13,4 @@ Objective: to combine well log data and the set of seimic cubes. The result is a
 
 3. Volve ST10010ZC11 vintage - training and predictions
 
-Objective: to make predictions using the new dataset as input
+Objective: to make predictions using the new dataset as input obtained in the second notebook
