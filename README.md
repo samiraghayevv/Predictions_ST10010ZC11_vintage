@@ -15,6 +15,6 @@ Objective: to combine well log data and the set of seimic cubes. The result is a
 
 Objective: to make predictions using the new dataset as input obtained in the second notebook
 
-3. Volve 2008 2011 partial seismic difference
+4. Volve 2008 2011 partial seismic difference
 
 Objective: In this notebook the purpose is to discover the data discrepancy that causes predictions when using ST10010ZC11 vintage to be different in terms of the predictions ranges.
