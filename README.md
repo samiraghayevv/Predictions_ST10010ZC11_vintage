@@ -1,6 +1,6 @@
 # Predictions_ST10010ZC11_vintage
 
-The purpose of the these notebooks triplet is to make acoustic impedance prediction test by introducing ST10010ZC11 vintage seismic data which was used by Ravasi in his study.  
+The purpose of the these notebooks is to make acoustic impedance prediction test by introducing ST10010ZC11 vintage seismic data which was used by Das in his study.  
 The workflow is shown in the related notebooks with the following objectives:
 
 1. Volve 2011 reprocessed vintage ST10010ZC11
